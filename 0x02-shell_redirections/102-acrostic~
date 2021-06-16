@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(cut --characters=1 | tr -d '\")

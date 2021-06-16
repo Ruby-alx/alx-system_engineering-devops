@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "$dir $( ls $dir |wc -l)"
